@@ -1,0 +1,4 @@
+@EndUserText.label: 'GDFRAP - Connection'
+define service ZUI_GDFRAP_CONN_12345 {
+  expose ZI_Connection_GDF12345;
+}
