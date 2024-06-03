@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SKTD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <KTD_OBJECT>
+    <NAME>ZI_GDF_TRAVEL_1234</NAME>
+    <TYPE>GENERAL_TEXT</TYPE>
+    <SOURCE_CONTENT_TYPE>02</SOURCE_CONTENT_TYPE>
+    <REF_OBJ_TYPE>BDEF</REF_OBJ_TYPE>
+    <REF_OBJ_NAME>ZI_GDF_TRAVEL_1234</REF_OBJ_NAME>
+    <ABAP_LANGUAGE_VERSION>X</ABAP_LANGUAGE_VERSION>
+    <CONTENT>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsJVwXjWn4w==</COMPONENT_UUID>
+     </item>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsK0tFAPIPw==</COMPONENT_UUID>
+      <COMPONENT_ID>6546351AA1B97281D280E731CA286B62ACBE63CB</COMPONENT_ID>
+      <COMPONENT_NAME>/sap/bc/adt/bo/behaviordefinitions/zi_gdf_travel_1234/source/main#type=BDEF/BAE;name=ZI_GDF_TRAVEL_1234</COMPONENT_NAME>
+     </item>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsK0tFAPoPw==</COMPONENT_UUID>
+      <COMPONENT_ID>ED1D650DDE5E68EBB29287A4673200FD96863250</COMPONENT_ID>
+      <COMPONENT_NAME>/sap/bc/adt/bo/behaviordefinitions/zi_gdf_travel_1234/source/main#type=BDEF/BSO;name=ZI_GDF_TRAVEL_1234.create</COMPONENT_NAME>
+      <SOURCE_CONTENT>IyBUw610dWxvIDxoMT4KIyMgVMOtdHVsbyA8aDI+CiMjIyBUw610dWxvIDxoMz4KIyMjIyBUw610
+dWxvIDxoND4KIyMjIyMgVMOtdHVsbyA8aDU+CiMjIyMjIyBUw610dWxvIDxoNj4KCgoqKnRleHRv
+KioKCiogT2zDoQoqIE9sw6EgMgoKPiBFc3RlIMOpIHVtICpibG9ja3F1b3RlKi4KCkV4ZW1wbG8g
+ICB8IFZhbG9yIGRvIGV4ZW1wbG8KLS0tLS0tLS0tIHwgLS0tLS0tCkV4ZW1wbG8gMSB8IFIkIDEw
+CkV4ZW1wbG8gMiB8IFIkIDgKRXhlbXBsbyAzIHwgUiQgNwpFeGVtcGxvIDQgfCBSJCA4</SOURCE_CONTENT>
+     </item>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsK0KCb9IPw==</COMPONENT_UUID>
+      <COMPONENT_ID>7FA252628ABF44E9524A1BAB83F49292E0555263</COMPONENT_ID>
+      <COMPONENT_NAME>/sap/bc/adt/bo/behaviordefinitions/zi_gdf_travel_1234/source/main#type=BDEF/BSO;name=ZI_GDF_TRAVEL_1234.create</COMPONENT_NAME>
+      <COMPONENT_TYPE>shorttext</COMPONENT_TYPE>
+      <SOURCE_CONTENT>Q3JpYXIgYSBWaWFnZW0=</SOURCE_CONTENT>
+     </item>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsK0tFAQIPw==</COMPONENT_UUID>
+      <COMPONENT_ID>55551EB940214F4B6C32BF1B7D5954B98CD82FFE</COMPONENT_ID>
+      <COMPONENT_NAME>/sap/bc/adt/bo/behaviordefinitions/zi_gdf_travel_1234/source/main#type=BDEF/BSO;name=ZI_GDF_TRAVEL_1234.update</COMPONENT_NAME>
+     </item>
+     <item>
+      <NAME>ZI_GDF_TRAVEL_1234</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>+kuDQtgiHu+DsK0KCb9oPw==</COMPONENT_UUID>
+      <COMPONENT_ID>459A0F06702C5F85135A0CB781332F259CEF1012</COMPONENT_ID>
+      <COMPONENT_NAME>/sap/bc/adt/bo/behaviordefinitions/zi_gdf_travel_1234/source/main#type=BDEF/BSO;name=ZI_GDF_TRAVEL_1234.update</COMPONENT_NAME>
+      <COMPONENT_TYPE>shorttext</COMPONENT_TYPE>
+     </item>
+    </CONTENT>
+   </KTD_OBJECT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
